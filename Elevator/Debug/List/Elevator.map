@@ -1,0 +1,25 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+up                                                                                0x0260       8
+down                                                                              0x0268       8
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+chosenFloor                                                                       R4,R5        2
+currentFloor                                                                      R6,R7        2
+condition                                                                         R8,R9        2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+GoUp                                                                              0x00045      3
+GoDown                                                                            0x00048      3
+isGoingUp                                                                         0x0004B      9
+isGoingDown                                                                       0x00054     13
+main                                                                              0x00061    317

@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:4E67A3B1
+NODE:I LEVEL:0 LINE:8 "D:\cvavr\inc\io.h"
+NODE:V LEVEL:0 LINE:10 "chosenFloor -> R4,R5"
+NODE:V LEVEL:0 LINE:11 "currentFloor -> R6,R7"
+NODE:V LEVEL:0 LINE:13 "up -> RAM:????"
+NODE:V LEVEL:0 LINE:14 "down -> RAM:????"
+NODE:V LEVEL:0 LINE:16 "condition -> R8,R9"
+NODE:F LEVEL:0 LINE:18 "GoUp(void)"
+NODE:F LEVEL:0 LINE:22 "GoDown(void)"
+NODE:F LEVEL:0 LINE:26 "isGoingUp(void)"
+NODE:F LEVEL:0 LINE:31 "isGoingDown(void)"
+NODE:F LEVEL:0 LINE:37 "main(void)"
